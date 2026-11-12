@@ -345,3 +345,4 @@ C:\Users\DS2\Desktop\ClinicaVeterinaria\ClinicaVeterinaria\ClinicaVet\obj\Debug\
 C:\Users\DS2\Desktop\ClinicaVeterinaria\ClinicaVeterinaria\ClinicaVet\obj\Debug\net10.0\ClinicaVet.pdb
 C:\Users\DS2\Desktop\ClinicaVeterinaria\ClinicaVeterinaria\ClinicaVet\obj\Debug\net10.0\ClinicaVet.genruntimeconfig.cache
 C:\Users\DS2\Desktop\ClinicaVeterinaria\ClinicaVeterinaria\ClinicaVet\obj\Debug\net10.0\ref\ClinicaVet.dll
+C:\Users\DS2\Desktop\ClinicaVeterinaria\ClinicaVeterinaria\ClinicaVet\obj\Debug\net10.0\ClinicaVet.sourcelink.json

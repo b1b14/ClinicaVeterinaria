@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3a9105b5-16a9-4607-97bf-6a5d6a79fda0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicaVet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3f36094ad5f16460d735979fd795bf5e2ae922")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicaVet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicaVet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
